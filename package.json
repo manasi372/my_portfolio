@@ -2,6 +2,15 @@
   "name": "my_portfolio",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/manasi372/my_portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/manasi372/my_portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasi372/my_portfolio.git",
+    "start": "node index.js"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
